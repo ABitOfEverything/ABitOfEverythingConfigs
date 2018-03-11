@@ -1,3 +1,13 @@
-069a79f4-44e9-4726-a5be-fca90e38aaf5:https://hydra-media.cursecdn.com/minecraft.gamepedia.com/8/8d/Minecon_2016_Cape.png
 991790cb-5894-40c3-b511-16e9c30f8c9d:http://94.23.210.224/staff.png
+b66a1005-b201-44ab-bb6f-fabbc1eb4c81:http://94.23.210.224/staff.png
+005ace8c-4ea2-4867-800a-488d66649b96:http://94.23.210.224/staff.png
+c6a3e98c-e774-46ab-a607-46a9e9bca999:http://94.23.210.224/staff.png
+e6dcf92b-2ca5-4199-b569-1d8a081f372b:http://94.23.210.224/staff.png
+23fe3ece-c9d6-4497-8b36-61961eff3811:http://94.23.210.224/staff.png
 1484aaa5-7900-44d1-a6df-17b62ca35ce0:http://94.23.210.224/peter.png
+9dca474b-cfb5-4904-bbbe-59b3a69072e9:http://94.23.210.224/staff.png
+96bc7a1a-40fe-44cd-966a-4ec60249706e:http://94.23.210.224/staff.png
+603a9be3-5d83-4116-97a1-2f1c1af472c4:http://94.23.210.224/staff.png
+97ac99ee-5904-41e6-9370-a69f53341a3c:http://94.23.210.224/staff.png
+0885d9ec-6a30-4060-a550-583ee3571d96:http://94.23.210.224/staff.png
+920163f1-ea3a-4147-bcca-44b76f06ae43:http://94.23.210.224/patreon.png

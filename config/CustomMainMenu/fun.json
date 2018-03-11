@@ -1,0 +1,278 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:thisisaPCname.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "",
+			"texture" : "mainmenu:thisisaPCname.png",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+			"hoverTextColor" : 16739174,
+			"imageWidth" : 100,
+            "imageHeight" : 50,
+            "action" :
+            {
+              "type" : "connectToServer",
+                "ip" : "94.23.210.224"
+            }
+        },
+
+        "multiplayer":
+        {
+            "text" : "",
+			"texture" : "mainmenu:thisisaPCname.png",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+			"hoverTextColor" : 16739174,
+			"imageWidth" : 100,
+            "imageHeight" : 50,
+            "action" :
+            {
+              "type" : "connectToServer",
+                "ip" : "94.23.210.224"
+            }
+        },
+
+        "mods":
+        {
+            "text" : "",
+			"texture" : "mainmenu:thisisaPCname.png",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+			"hoverTextColor" : 16739174,
+			"imageWidth" : 100,
+            "imageHeight" : 50,
+            "action" :
+            {
+              "type" : "connectToServer",
+                "ip" : "94.23.210.224"
+            }
+        },
+
+        "options":
+        {
+            "text" : "",
+			"texture" : "mainmenu:thisisaPCname.png",
+      "posX" : -100,
+      "posY" : 120.5,
+      "width" : 200,
+      "height" : 20,
+
+			"hoverTextColor" : 16739174,
+			"imageWidth" : 100,
+            "imageHeight" : 50,
+            "action" :
+            {
+              "type" : "connectToServer",
+                "ip" : "94.23.210.224"
+            }
+        },
+
+
+        "language":
+        {
+            "text" : "",
+			"texture" : "mainmenu:thisisaPCname.png",
+            "posX" : -124,
+            "posY" : 120.5,
+            "width" : 20,
+            "height" : 20,
+			"hoverTextColor" : 16739174,
+			"imageWidth" : 100,
+            "imageHeight" : 50,
+            "action" :
+            {
+              "type" : "connectToServer",
+                "ip" : "94.23.210.224"
+            }
+        },
+
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 250,
+            "posY" : -90,
+            "width" : 70,
+            "height" : 70,
+            "imageWidth" : 0,
+                  "imageHeight" : 0,
+            "texture" : "mainmenu:thisisaPCname.png",
+            "action" :
+            {
+              "type" : "openGui",
+              "gui" : "custom.pban"
+            }
+        },
+
+        "fun":
+        {
+            "text" : "",
+            "posX" : -320,
+            "posY" : -90,
+            "width" : 70,
+            "height" : 70,
+            "imageWidth" : 0,
+                  "imageHeight" : 0,
+            "texture" : "mainmenu:thisisaPCname.png",
+            "action" :
+            {
+              "type" : "connectToServer",
+                "ip" : "94.23.210.224"
+            }
+        },
+
+		"ABOE":
+        {
+            "text" : "",
+            "texture" : "mainmenu:thisisaPCname.png",
+            "posX" : -100,
+            "posY" : 24,
+            "width" : 200,
+            "height" : 20,
+			"hoverTextColor" : 16739174,
+            "action" :
+            {
+              "type" : "connectToServer",
+                "ip" : "94.23.210.224"
+            }
+        },
+
+        "mcp_patreon":
+            {
+                "text" : "",
+                "posX" : -92,
+                "posY" : 148,
+                "width" : 80,
+                "height" : 30,
+                "imageWidth" : 576,
+                "imageHeight" : 261,
+                "texture" : "mainmenu:thisisaPCname.png",
+                "action" :
+                {
+                    "type" : "openLink",
+                    "link" : "https://patreon.com/ABitOfEverything"
+                }
+            },
+            "quit":
+            {
+                "text" : "",
+          "texture" : "mainmenu:thisisaPCname.png",
+          "posX" : 104,
+          "posY" : 120.5,
+                "width" : 20,
+                "height" : 20,
+          "hoverTextColor" : 16739174,
+          "imageWidth" : 100,
+                "imageHeight" : 50,
+                "action" :
+                {
+                  "type" : "connectToServer",
+                    "ip" : "94.23.210.224"
+                }
+            },
+
+
+		"mcp_discord":
+        {
+            "text" : "",
+            "posX" : 10,
+            "posY" : 152,
+            "width" : 80,
+            "height" : 20,
+            "imageWidth" : 400,
+            "imageHeight" : 96,
+            "texture" : "mainmenu:thisisaPCname.png",
+            "action" :
+            {
+              "type" : "connectToServer",
+                "ip" : "94.23.210.224"
+            }
+        }
+    },
+
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+
+		"Modules":{
+			"text" : "MEMES Loaded:",
+            "posX" : 2,
+            "posY" : -10,
+			"fontSize" : 1,
+            "color" : 9013641,
+            "hoverColor" : 9013641,
+            "alignment" : "bottom_left"
+		},
+
+		"modsloaded":{
+			"text" : "420",
+            "posX" : 80,
+            "posY" : -10,
+			"fontSize" : 1,
+            "alignment" : "bottom_left"
+		},
+
+		"modpack":{
+			"text" : ": a bi t ov evrifin",
+            "posX" : 2,
+            "posY" : -30,
+			"fontSize" : 1.0,
+            "color" : 10635467,
+			"hoverColor" : 10635467,
+            "alignment" : "bottom_left"
+		},
+
+		"version":{
+			"text" : "Version: MEME",
+            "posX" : 2,
+            "posY" : -20,
+			"fontSize" : 1.0,
+            "color" : 63343,
+			"hoverColor" : 63343,
+            "alignment" : "bottom_left"
+		}
+    },
+
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 50,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "[13:37] NOOSE: Whanted!: King Snooble"
+        },
+		"background":
+		{
+			"image" : "mainmenu:memes.png",
+			"mode" : "fill"
+		}
+    }
+}

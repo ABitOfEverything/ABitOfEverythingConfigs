@@ -1,0 +1,97 @@
+[
+  {
+    "resourceLocation": "betterloadingscreen:textures/catback.png",
+    "positionType": "TOP_LEFT",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "position": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    }
+  },
+
+  {
+   "resourceLocation": "betterloadingscreen:textures/newcat.png",
+   "positionType": "CENTER",
+   "type": "STATIC",
+   "texture": {
+     "x": 512,
+     "y": 512,
+     "width": 256,
+     "height": 256
+   },
+   "position": {
+     "x": 0,
+     "y": 0,
+     "width": 283,
+     "height": 132
+   }
+ },
+
+
+  {
+    "resourceLocation": "betterloadingscreen:textures/font.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_TEXT_STATUS",
+    "position": {
+      "x": 0,
+      "y": -80,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "FFFFFF"
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/loadingbar.png",
+    "positionType": "CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 128
+    },
+    "position": {
+      "x": 0,
+      "y": -100,
+      "width": 120,
+      "height": 8
+    }
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/loadingbar.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_PERCENTAGE",
+    "texture": {
+      "x": 0,
+      "y": 128,
+      "width": 256,
+      "height": 128
+    },
+    "position": {
+      "x": 0,
+      "y": -100,
+      "width": 120,
+      "height": 8
+    }
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/font.png",
+    "positionType": "CENTER",
+    "type": "DYNAMIC_TEXT_PERCENTAGE",
+    "position": {
+      "x": 0,
+      "y": -50,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "FFFFFF"
+  }
+]

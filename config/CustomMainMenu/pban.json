@@ -1,0 +1,103 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:thisisaPCname.png",
+            "posX" : -137,
+            "posY" : 30,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "options":
+        {
+            "text" : "Options",
+			"texture" : "mainmenu:thisisaPCname.png",
+      "posX" : -400,
+      "posY" : -200,
+      "width" : 1000,
+      "height" : 1000,
+
+			"hoverTextColor" : 16739174,
+			"imageWidth" : 100,
+            "imageHeight" : 50,
+            "action" :
+            {
+              "type" : "quit"
+
+            }
+        }
+    },
+
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+
+		"Modules":{
+			"text" : "",
+            "posX" : 2,
+            "posY" : -10,
+			"fontSize" : 1,
+            "color" : 9013641,
+            "hoverColor" : 9013641,
+            "alignment" : "bottom_left"
+		},
+
+		"modsloaded":{
+			"text" : "",
+            "posX" : 94,
+            "posY" : -10,
+			"fontSize" : 1,
+            "alignment" : "bottom_left"
+		},
+
+		"modpack":{
+			"text" : "",
+            "posX" : 2,
+            "posY" : -30,
+			"fontSize" : 1.0,
+            "color" : 10635467,
+			"hoverColor" : 10635467,
+            "alignment" : "bottom_left"
+		},
+
+		"version":{
+			"text" : "",
+            "posX" : 2,
+            "posY" : -20,
+			"fontSize" : 1.0,
+            "color" : 63343,
+			"hoverColor" : 63343,
+            "alignment" : "bottom_left"
+		}
+    },
+
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : ""
+        },
+		"background":
+		{
+			"image" : "mainmenu:permaban.png",
+			"mode" : "fill"
+		}
+    }
+}
