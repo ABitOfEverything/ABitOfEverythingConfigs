@@ -1,8 +1,13 @@
 {
 "mglguy": {
+"capeUrl": "http://ufharmony.com/capes/DerpCape.png",
+"users": [
+"SirOMGitsYOU"
+]
+},
+"developer": {
 "capeUrl": "https://www.dropbox.com/s/shlko3u6v7zcy3b/testcape.png?raw=1",
 "users": [
-"SirOMGitsYOU",
 "Kriogenic1893"
 ]
 }
