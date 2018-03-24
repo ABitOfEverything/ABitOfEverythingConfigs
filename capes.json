@@ -1,14 +1,24 @@
 {
-  "mglguy":{
-    "capeUrl":"http://ufharmony.com/capes/DerpCape.png",
+  "staff":{
+    "capeUrl":"https://i.imgur.com/WypBAOg.png",
     "users":[
-      "SirOMGitsYOU"
+      "Rextiano", "SnypeX24", "Zer0_91", "Metru", "DrewMuzz", "cbaine711", "RainyPaws"
     ]
   },
-  "developer":{
+  "patreon":{
+    "capeUrl":"https://i.imgur.com/NMgNOi7.png",
+    "users":[
+      "zpazz", "Roweiss", "Rockshatter"
+    ]
+  },
+  "kraken":{
     "capeUrl":"https://i.imgur.com/wOrMm3s.png",
     "users":[
-      "Kriogenic1893"
+      "sinswordace", "EmaqED"
     ]
-  }
+  },
+"SirOMGitsYOU": "https://i.imgur.com/TrNIVg3.png",
+"Azaeris": "https://i.imgur.com/i6shF2C.png",
+"Kriogenic1893": "https://www.dropbox.com/s/shlko3u6v7zcy3b/testcape.png?raw=1",
+"lbpdragon": "https://i.imgur.com/ls4mcVT.png"
 }
