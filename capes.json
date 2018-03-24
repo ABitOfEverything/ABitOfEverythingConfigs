@@ -1,14 +1,14 @@
 {
-"mglguy": {
-"capeUrl": "http://ufharmony.com/capes/DerpCape.png",
-"users": [
-"SirOMGitsYOU"
-]
-},
-"developer": {
-"capeUrl": "https://i.imgur.com/wOrMm3s.png",
-"users": [
-"Kriogenic1893"
-]
-}
+  "mglguy":{
+    "capeUrl":"http://ufharmony.com/capes/DerpCape.png",
+    "users":[
+      "SirOMGitsYOU"
+    ]
+  },
+  "developer":{
+    "capeUrl":"https://i.imgur.com/wOrMm3s.png",
+    "users":[
+      "Kriogenic1893"
+    ]
+  }
 }
