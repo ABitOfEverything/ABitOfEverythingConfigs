@@ -1,3 +1,18 @@
 {
-
+  "emotes": [
+    {
+      "name": "fliptable",
+      "emote": "(╯°□°）╯︵ ┻━┻"
+    },
+    
+    {
+      "name": "fixtable",
+      "emote": "┬─┬ ノ( ゜-゜ノ)"
+    },
+    
+    {
+      "name": "shrug",
+      "emote": "¯\\_(ツ)_/¯"
+    }
+  ]
 }
